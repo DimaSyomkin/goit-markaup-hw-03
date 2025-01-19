@@ -368,7 +368,7 @@ header {
     line-height: 1.20;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 .portfolio-text {
@@ -395,7 +395,7 @@ header {
     text-transform: uppercase;
     color: #4d5ae5;
     display: inline-block;
-    padding-bottom: 16px;
+    margin-bottom: 16px;
     padding-top: 100px;
 
 }
