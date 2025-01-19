@@ -382,9 +382,9 @@ header {
 }
 
 /*------------Footer--------------*/
-.footer {
+.footer-box {
+    padding: 100px 0;
     background: #2e2f42;
-
 }
 
 .footer-logo {
@@ -418,8 +418,4 @@ header {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
-}
-
-.footer-box {
-    padding: 100px 0;
 }
