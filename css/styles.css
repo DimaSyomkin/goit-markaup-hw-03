@@ -59,13 +59,11 @@ img {
 }
 
 
+header {
+    border-bottom: 1px solid #e7e9fc;
+}
 
 /*------------Header--------------*/
-
-.header-global {
-    border-bottom: 1px solid #e7e9fc;
-
-}
 
 .logo-link {
     font-family: "Raleway", sans-serif;
