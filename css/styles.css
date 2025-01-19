@@ -384,6 +384,7 @@ header {
 /*------------Footer--------------*/
 .footer {
     background: #2e2f42;
+    padding: 100px 0;
 }
 
 .footer-logo {
@@ -394,6 +395,8 @@ header {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    display: inline-block;
+    padding-bottom: 16px;
 
 }
 
@@ -411,7 +414,7 @@ header {
 
     font-weight: 400;
     font-size: 16px;
-    padding-top: 16px;
+
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
