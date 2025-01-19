@@ -177,8 +177,7 @@ img {
 
 .header-nav {
     display: flex;
-    padding-top: 24px;
-    padding-bottom: 24px;
+
     align-items: center
 }
 
@@ -186,6 +185,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 /*------------Main Screen--------------*/
